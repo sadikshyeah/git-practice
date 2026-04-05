@@ -1,4 +1,4 @@
- I decided to learn Git and GitHub. At first, everything seemed confusing. There were strange commands like git add, git commit, and git push.
+Hello! My name is Sadikshya Parajuli. I decided to learn Git and GitHub. At first, everything seemed confusing. There were strange commands like git add, git commit, and git push.
 
 I created my first project and started adding files. Slowly, I began to understand how version control works. It felt like saving checkpoints in a game, where I could go back anytime if something went wrong.
 
