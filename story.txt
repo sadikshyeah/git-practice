@@ -7,3 +7,5 @@ While practicing, I made mistakes, but Git helped me fix them easily. I learned 
 By the end of the day, I was no longer afraid of Git. Instead, I felt confident and excited to use it in future projects.
 
 And that was the day I took my first step toward becoming a better developer.
+
+I like programming.
