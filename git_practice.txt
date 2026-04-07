@@ -1,2 +1,4 @@
 making changes to practice git
 This is my git file
+
+Making changes after cloning my project
